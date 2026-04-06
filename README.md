@@ -27,3 +27,20 @@ Here are some ideas to get you started:
 [![Available](https://img.shields.io/badge/Available-May%202026%20%7C%20F--1%20OPT-1D9E75?style=flat-square)]()
 
 </div>
+---
+
+## 🧑‍💻 About Me
+
+I'm a data professional with **3 years of enterprise experience** at Oracle Cerner, where I built BI dashboards, ETL pipelines, and SQL-driven reporting systems for HR, Payroll, and Finance stakeholders across large-scale production environments.
+
+Currently completing my **MS in Applied Data Science** at Syracuse University (School of Information Studies) — actively seeking full-time roles in **Data Science, Data Analytics, and Data Engineering** starting May 2026.
+
+I work at the intersection of **data engineering, analytics, and applied ML** — turning messy, large-scale data into decisions that are measurable and repeatable.
+
+```
+🔍 Data Science & Analytics    🏗️ ETL/ELT Pipelines
+📊 BI & Visualization          🤖 Machine Learning & NLP
+🏢 Enterprise BI (3 yrs)       📍 Open to relocation
+```
+
+---
