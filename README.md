@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Hi, I'm Sanchitha Sudarshana
+
+🎓 Education
+M.S. in Applied Data Science
+Syracuse University, School of Information Studies — May 2026
+
+B.E. in Information Science
+New Horizon College Of Engineering — May 2022
+🛠 Technical Skills
+
+Programming & Querying
+Python R SQL Java HTML CSS
+
+Data Engineering & Cloud
+Snowflake BigQuery Databricks AWS Airflow PySpark SparkSQL Linux
+
+Analytics & Visualization
+Tableau Power BI Looker Excel Shiny
+
+Machine Learning
+Regression Random Forest XGBoost SVM K-Means
+CNN RNN LSTM NLP
+
+Tools & Platforms
+GitHub Jira Azure OpenAI Cognitive Search
+
+
+
