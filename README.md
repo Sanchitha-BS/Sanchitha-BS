@@ -89,3 +89,23 @@ I work at the intersection of **data engineering, analytics, and applied ML** �
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-6c757d?style=flat-square&logoColor=white)
 
 ---
+---
+
+## 🎓 Education
+
+**MS Applied Data Science** — Syracuse University, School of Information Studies *(Aug 2024 – May 2026)*
+
+**BE Information Science & Engineering** — New Horizon College of Engineering, Bangalore *(Aug 2018 – Jul 2022)*
+
+---
+
+## 📫 Reach Me
+
+| | |
+|---|---|
+| 📧 Email | [sanchithashetty95@gmail.com](mailto:sanchithashetty95@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/sanchitha-sudarshana](https://linkedin.com/in/sanchitha-sudarshana) |
+| 📞 Phone | (612) 600-2393 |
+| 📍 Location | Syracuse, NY — open to relocation |
+
+---
